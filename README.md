@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![lecfab's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lecfab&langs_count=10&hide=jupyter%20notebook,cartocss,cmake&count_private=false&layout=compact)
 
 <!--
